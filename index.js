@@ -1,4 +1,8 @@
 function shout(string) {
+  return string.toUpperCase()
+}
+
+function shout(string) {
   string.toUpperCase() === uppercase
   return string.toUpperCase()
 }
